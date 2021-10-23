@@ -1,0 +1,3 @@
+first when i opened the code its full of bugs , started from each comment,
+firt didn't get any idea about the bug , 
+the started reading line by line . Then identified that in some places semicolon is missing , in if case double = is missing , there is defect in the closing of brackets . By fixing one by one finally i got the programme .....
